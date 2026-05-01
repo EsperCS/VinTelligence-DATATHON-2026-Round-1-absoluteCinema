@@ -1,4 +1,4 @@
-# README
+# Submmision của team absoluteCinema cho cuộc thi DATATHON2026
 
 Repository này hiện có hai phần chính:
 
